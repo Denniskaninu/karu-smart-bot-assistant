@@ -110,28 +110,9 @@ karubot/
 └── requirements.txt    # 📦 Dependencies
 
 
-🤝 Contributing
-We’d love your contributions! Here’s how to get started:
-
-🍴 Fork the repository.  
-🌿 Create a feature branch: git checkout -b feature/YourFeature.  
-💾 Commit changes: git commit -m 'Add YourFeature'.  
-🚀 Push to the branch: git push origin feature/YourFeature.  
-📬 Open a pull request.
-
-For major changes, open an issue first to discuss your ideas. 💡
-
 📜 License
 KaruBot is open-source under the MIT License. 🖌️
 
 👨‍💻 Author
 Dennis Kaninu🎓 BSc Computer Science – Karatina University📧 info@karu.ac.ke | 🌐 karu.ac.ke
 
-🌍 Connect with Karatina University
-
-🌐 Website: karu.ac.ke  
-📝 Admissions: admissions.karu.ac.ke  
-🧑‍🎓 Student Portal: portal.karu.ac.ke
-
-
-KaruBot – Your guide to Karatina University, powered by AI! 🌟```
