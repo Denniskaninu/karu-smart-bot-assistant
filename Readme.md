@@ -1,4 +1,4 @@
-# 🎓 **KaruBot** – *Your Smart Virtual Assistant for Karatina University* 🚀
+# karu-smart-bot-assistant# 🎓 **KaruBot** – *Your Smart Virtual Assistant for Karatina University* 🚀
 
 **KaruBot** is a cutting-edge, AI-powered chatbot built with **Flask** and powered by **Google Gemini Pro**. Designed to deliver *fast*, *accurate*, and *friendly* answers about **Karatina University (KARU)**, it covers everything from admissions to academic programs, facilities, and more! 🌟
 
