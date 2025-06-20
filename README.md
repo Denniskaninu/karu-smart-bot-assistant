@@ -25,6 +25,7 @@
 | **API/Frontend**  | 🌍 Flask + CORS + JSON           |
 
 ---
+![image](https://github.com/user-attachments/assets/f878a793-1071-4882-9e64-39aebe3d2c7d)
 
 ## 🚀 **Get Started**
 
